@@ -1,0 +1,6 @@
+## Editors
+.vscode
+.idea
+
+## Binaries 
+*.bin
